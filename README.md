@@ -2,10 +2,12 @@
 
 <img alt="Car Price Prediction Using Machine Learning" src=".github/banner.svg" width="100%">
 
+Notebook predicting used-car resale prices from vehicle attributes with regression models.
+
 <br>
 
 
-![language](https://img.shields.io/badge/language-Jupyter%20Notebook-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2023--06--30-1F2937?style=flat-square&labelColor=111827)
+![language](https://img.shields.io/badge/language-Jupyter%20Notebook-374151?style=flat-square&labelColor=111827) ![updated](https://img.shields.io/badge/updated-2026--11--04-1F2937?style=flat-square&labelColor=111827)
 
 </div>
 
@@ -13,7 +15,7 @@
 
 ## What this is
 
-Jupyter Notebook project with 1 notebook: `car price prediction-checkpoint`. Also checked in: 1 markdown document. The sections below are read from the repository itself, 3 tracked files as of 2023-06-30.
+A regression exercise predicting used-car prices from vehicle attributes, worked end to end in a single notebook.
 
 <div align="center">
 
